@@ -2,7 +2,7 @@
 Short description and motivation.
 
 ## Usage
-How to use my plugin.
+Coming Soon.
 
 ## Installation
 Add this line to your application's Gemfile:
